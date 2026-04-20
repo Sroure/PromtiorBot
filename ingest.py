@@ -23,7 +23,7 @@ URLS = [
     "https://www.promtior.ai/use-cases",
 ]
 
-PDF_PATH = os.getenv("PDF_PATH", "./data/company.pdf")
+PDF_PATH = os.getenv("PDF_PATH", "./doc/data.pdf")
 CHROMA_DB_PATH = os.getenv("CHROMA_DB_PATH", "./chroma_db")
 
 # ── Loaders ───────────────────────────────────────────────────────────────────
