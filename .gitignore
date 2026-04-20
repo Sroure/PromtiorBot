@@ -13,10 +13,6 @@ __pycache__/
 venv/
 .venv/
 
-# PDF source documents
-doc/*.pdf
-data/
-
 # OS files
 .DS_Store
 Thumbs.db
