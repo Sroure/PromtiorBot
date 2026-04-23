@@ -4,7 +4,7 @@
 
 The goal of this challenge was to build a chatbot capable of answering questions about Promtior AI using real, up-to-date information from the company's website and an internal PDF document.
 
-My approach was based on **Retrieval-Augmented Generation (RAG)**: instead of relying on a general-purpose LLM that knows nothing about Promtior, I built a pipeline that retrieves relevant information from a curated knowledge base and feeds it to the model as context before generating a response. This way, the chatbot only answers with facts that are grounded in real sources.
+My approach was based on Retrieval-Augmented Generation RAG: instead of relying on a general-purpose LLM that knows nothing about Promtior, I built a pipeline that retrieves relevant information from a curated knowledge base and feeds it to the model as context before generating a response. This way, the chatbot only answers with facts that are grounded in real sources.
 
 ---
 
